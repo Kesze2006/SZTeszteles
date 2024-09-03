@@ -1,0 +1,2 @@
+# SZTeszteles
+Szoftver tesztelés 
